@@ -20,3 +20,6 @@ Left and right mouse buttons can be detected with keys
 ## Pinout
 
 ![pinout](images/pinout.png)
+
+### Dependencies
+* EccsLogicWorldAPI
