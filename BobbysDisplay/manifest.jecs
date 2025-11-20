@@ -1,0 +1,7 @@
+﻿ID: BobbysDisplay
+Name: Bobby's Display
+Author: gnog
+Version: 0.0.1
+Priority: 0
+Dependencies:
+    - EccsLogicWorldAPI

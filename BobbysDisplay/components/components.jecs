@@ -1,0 +1,6 @@
+﻿BobbysDisplay:
+    column: "Output"
+    prefabGenerator: BobbysDisplay.Client.DisplayPrefabGenerator
+    clientCode: BobbysDisplay.Client.Display
+    logicCode: BobbysDisplay.Server.Display
+    placingRulesGenerator: BobbysDisplay.Client.DisplayPlacingRulesGenerator
